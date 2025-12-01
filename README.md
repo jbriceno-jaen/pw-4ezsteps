@@ -141,31 +141,7 @@ Output:
 
 ---
 
-## 🧩 **Task 3 — ESLint & Prettier Challenge**
-
-### **Goal**
-- Modify ESLint rules  
-- Fix lint issues in one page + one test file  
-
-### **Review Prompt**
-```
-I completed Task 3: ESLint/Prettier adjustments.
-
-Scope:
-- .eslintrc.*
-- One updated page file
-- One updated test file
-
-Please:
-- Identify rule(s) I changed
-- Tell me if code quality improved
-- Recommend new useful rules
-- Score from 1–100 for Task 3 only
-```
-
----
-
-## 🧩 **Task 4 — Flow Extension + Refactor**
+## 🧩 **Task 3 — Flow Extension + Refactor**
 
 ### **Goal**
 - Extend login → add to cart → proceed to checkout  
@@ -223,7 +199,7 @@ Output:
 
 # 🎉 Congratulations!
 
-This `TRAINING.md` file is your fully guided, self-paced Playwright training program with:
+This `README.md` file is your fully guided, self-paced Playwright training program with:
 
 - Independent hands-on tasks  
 - Per-task review prompts  
